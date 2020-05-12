@@ -11,5 +11,6 @@ OpenCV2
 
 # Example using as an i3 keybind and polo file manager:
 `~/.config/i3/config`:
-```bindsym $mod+d exec python3 ~/Documents/splashload/src/splashload.py & polo-gtk ~
+``` bash
+bindsym $mod+d exec python3 ~/Documents/splashload/src/splashload.py & polo-gtk ~
 ```
